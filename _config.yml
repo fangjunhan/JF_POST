@@ -122,7 +122,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /JF_post/
+  url: /JF_POST/
 - title: Elements
   url: /JF_POST/elements/
 - title: Blog
