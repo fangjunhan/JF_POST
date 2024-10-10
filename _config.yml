@@ -122,21 +122,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: https://fangjunhan.github.io/JF_post/
+  url: /JF_post/
 - title: Elements
-  url: /elements/
+  url: /JF_POST/elements/
 - title: Blog
-  url: /blog/
+  url: /JF_POST/blog/
 - title: Categories
-  url: /categories/
+  url: /JF_POST/categories/
 - title: Search
-  url: /search/
+  url: /JF_POST/search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Created by Jfang
-  url: https://darn.es
+  url: https://fangjunhan.github.io/JF_post/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
