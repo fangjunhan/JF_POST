@@ -122,7 +122,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: https://fangjunhan.github.io/JF_post/
 - title: Elements
   url: /elements/
 - title: Blog
@@ -136,7 +136,7 @@ navigation_header:
 
 navigation_footer:
 - title: Created by Jfang
-  url: https://fangjunhan.github.io/
+  url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
