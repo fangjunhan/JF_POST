@@ -124,13 +124,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Elements
-  url: https://fangjunhan.github.io/JF_POST/elements/
+  url: /elements/
 - title: Blog
   url: /blog/
 - title: Categories
-  url: https://fangjunhan.github.io/JF_POST/categories/
+  url: /categories/
 - title: Search
-  url: https://fangjunhan.github.io/JF_POST/search/
+  url: /search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
