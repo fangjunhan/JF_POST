@@ -122,11 +122,11 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: https://fangjunhan.github.io/JF_POST/
+  url: /
 - title: Elements
   url: https://fangjunhan.github.io/JF_POST/elements/
 - title: Blog
-  url: https://fangjunhan.github.io/JF_POST/blog/
+  url: /blog/
 - title: Categories
   url: https://fangjunhan.github.io/JF_POST/categories/
 - title: Search
