@@ -93,13 +93,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "JF's Posts" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "This is the website for JF's Posts" # Site description and default description, also used in jekyll-seo-tag
+url: "https://fangjunhan.github.io/JF_POST/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+email: "fangjunhan1992@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -122,15 +122,15 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: https://fangjunhan.github.io/JF_POST/
 - title: Elements
-  url: /elements/
+  url: https://fangjunhan.github.io/JF_POST/elements/
 - title: Blog
-  url: /blog/
+  url: https://fangjunhan.github.io/JF_POST/blog/
 - title: Categories
-  url: /categories/
+  url: https://fangjunhan.github.io/JF_POST/categories/
 - title: Search
-  url: /search/
+  url: https://fangjunhan.github.io/JF_POST/search/
 - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
 
